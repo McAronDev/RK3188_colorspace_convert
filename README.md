@@ -6,6 +6,7 @@ Testing colorspace convertions.
 
 in
 Usage: ./colorspace_convert converter in_file out_file width height
+
   converter: [NV12toRGB565, NV12toI420, NV12toNV12]
   in-file - raw yuv sequence file
   
